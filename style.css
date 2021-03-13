@@ -1,0 +1,24 @@
+body{
+    background-image: linear-gradient(to bottom right, deepskyblue, darkorchid);
+}
+span{
+    letter-spacing: 10px;
+}
+.heading{
+    font-size: 20px;
+    font-family:Georgia;
+}
+#camera{
+    border-style:outset;
+    border-width: 5px;
+    border-color:lightskyblue;
+    width: 300px;
+    height: 250px;
+}
+#snapshot{
+    border-style:outset;
+    border-width: 5px;
+    border-color:lightskyblue;
+    width: 300px;
+    height: 250px;
+}
